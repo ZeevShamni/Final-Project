@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/never"
+        android:title="Never"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/today"
+        android:title="Today"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/always"
+        android:title="always"
+        app:showAsAction="always" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</menu>

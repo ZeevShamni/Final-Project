@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jewish Alarm Clock</string>
+    <string name="tab_text_1">ALARMS</string>
+    <string name="tab_text_2">ZMANIM LIST</string>
+    <string name="tab_text_3">TIMER</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
