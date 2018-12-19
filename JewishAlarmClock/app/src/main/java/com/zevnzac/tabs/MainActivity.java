@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void second_onClick(View view) {
-        Intent intent = new Intent(this, Main3Activity.class);
+        Intent intent = new Intent(this, Main2Activity.class);
         startActivity(intent);
     }
 

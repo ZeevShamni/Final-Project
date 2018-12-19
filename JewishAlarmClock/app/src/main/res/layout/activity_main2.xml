@@ -6,4 +6,121 @@
     android:layout_height="match_parent"
     tools:context=".Main2Activity">
 
+    <!--<android.support.v7.widget.CardView-->
+    <!--xmlns:card_view="http://schemas.android.com/apk/res-auto"-->
+    <!--android:id="@+id/card_view"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--card_view:cardCornerRadius="4dp">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/info_text1"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="70dp"-->
+    <!--android:layout_marginStart="8dp"-->
+    <!--android:layout_marginLeft="8dp"-->
+
+    <!--android:layout_marginTop="8dp"-->
+    <!--android:text="Repeat"-->
+    <!--android:textSize="20dp"-->
+    <!--app:layout_constraintStart_toStartOf="parent"-->
+    <!--app:layout_constraintTop_toTopOf="parent"-->
+    <!--android:onClick="repeat_onClick"-->
+    <!--/>-->
+
+    <!--<View-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:layout_marginTop="70dp"-->
+    <!--android:background="@android:color/darker_gray"-->
+    <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/info_text2"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="70dp"-->
+    <!--android:layout_marginStart="8dp"-->
+    <!--android:layout_marginLeft="8dp"-->
+
+    <!--android:layout_marginTop="75dp"-->
+    <!--android:text="Alarm name"-->
+    <!--android:textSize="20dp"-->
+    <!--app:layout_constraintStart_toStartOf="parent"-->
+    <!--app:layout_constraintTop_toBottomOf="@+id/info_text1" />-->
+
+    <!--<View-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:layout_marginTop="140dp"-->
+    <!--android:background="@android:color/darker_gray"-->
+    <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/info_text3"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="70dp"-->
+    <!--android:layout_marginStart="8dp"-->
+    <!--android:layout_marginLeft="8dp"-->
+
+    <!--android:layout_marginTop="150dp"-->
+    <!--android:text="Alarm sound"-->
+    <!--android:textSize="20dp"-->
+    <!--app:layout_constraintStart_toStartOf="parent"-->
+    <!--app:layout_constraintTop_toBottomOf="@+id/info_text2" />-->
+
+    <!--<View-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:layout_marginTop="210dp"-->
+    <!--android:background="@android:color/darker_gray"-->
+    <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+    <!--<Switch-->
+    <!--android:id="@+id/switch1"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="150dp"-->
+    <!--android:layout_marginLeft="300dp" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/info_text4"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="70dp"-->
+    <!--android:layout_marginStart="8dp"-->
+    <!--android:layout_marginLeft="8dp"-->
+
+    <!--android:layout_marginTop="225dp"-->
+    <!--android:text="Vibration"-->
+    <!--android:textSize="20dp"-->
+    <!--app:layout_constraintStart_toStartOf="parent"-->
+    <!--app:layout_constraintTop_toBottomOf="@+id/info_text3" />-->
+
+    <!--<View-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:layout_marginTop="280dp"-->
+    <!--android:background="@android:color/darker_gray"-->
+    <!--app:layout_constraintTop_toTopOf="parent" />-->
+
+    <!--<Switch-->
+    <!--android:id="@+id/switch2"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="225dp"-->
+    <!--android:layout_marginLeft="300dp" />-->
+
+
+    <!--</android.support.v7.widget.CardView>-->
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listProperties"
+        />
+
+
+
+
+
 </android.support.constraint.ConstraintLayout>
