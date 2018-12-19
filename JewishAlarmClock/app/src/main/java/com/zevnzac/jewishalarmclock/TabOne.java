@@ -1,4 +1,4 @@
-package com.zevnzac.tabs;
+package com.zevnzac.jewishalarmclock;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;

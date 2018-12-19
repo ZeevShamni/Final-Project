@@ -1,4 +1,4 @@
-package com.zevnzac.tabs;
+package com.zevnzac.jewishalarmclock;
 
 import android.content.Intent;
 import android.support.design.widget.TabLayout;
@@ -157,8 +157,8 @@ public class MainActivity extends AppCompatActivity {
                 case 2:
                     TabThree tabThree = new TabThree();
                     return tabThree;
-                 default:
-                     return null;
+                default:
+                    return null;
             }
         }
 
@@ -169,3 +169,4 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+

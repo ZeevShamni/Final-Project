@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Jewish Alarm Clock</string>
+    <string name="app_name">JewishAlarmClock</string>
     <string name="tab_text_1">ALARMS</string>
     <string name="tab_text_2">ZMANIM LIST</string>
     <string name="tab_text_3">TIMER</string>

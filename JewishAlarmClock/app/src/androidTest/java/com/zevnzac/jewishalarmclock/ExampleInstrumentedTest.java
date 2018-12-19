@@ -1,4 +1,4 @@
-package com.zevnzac.tabs;
+package com.zevnzac.jewishalarmclock;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.zevnzac.tabs", appContext.getPackageName());
+        assertEquals("com.zevnzac.jewishalarmclock", appContext.getPackageName());
     }
 }
