@@ -3,6 +3,8 @@ package com.zevnzac.jewishalarmclock;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.ArrayAdapter;
@@ -31,6 +33,12 @@ public class Main2Activity extends AppCompatActivity {
 //        listViewProperties.setAdapter(arrayAdapter);
     }
 
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater menuInflater  = getMenuInflater();
+        menuInflater.inflate(R.menu.menu_choice, menu);
+        return super.onCreateOptionsMenu(menu);
+    }
 
     public void repeat_onClick(View view) {
         PopupMenu popupMenu = new PopupMenu(this, view);

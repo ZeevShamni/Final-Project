@@ -90,7 +90,7 @@
     android:layout_marginStart="8dp"
     android:layout_marginLeft="8dp"
 
-    android:layout_marginTop="225dp"
+    android:layout_marginTop="220dp"
     android:text="Vibration"
     android:textSize="20dp"
     app:layout_constraintStart_toStartOf="parent"
