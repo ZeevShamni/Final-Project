@@ -69,8 +69,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="end|bottom"
         android:layout_margin="@dimen/fab_margin"
-        app:backgroundTint="@color/colorAccent"
-        app:srcCompat="@android:drawable/ic_input_add"
+        app:srcCompat="@drawable/ic_alarm_add_white"
+        tools:ignore="VectorDrawableCompat"
 
         />
 
